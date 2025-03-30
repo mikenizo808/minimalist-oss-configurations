@@ -14,4 +14,4 @@ All paths shown assume you follow the vendor examples to create self-signed cert
 
 For `InfluxDB 3 Core (beta)` follow the vendor instructions, which currently allows using a "token" of any value, or an empty string.
 
-Also see the included hyper mike guide for InfluxDB 3 Core (beta). I walk you through the vendor instructions and do some other things like use PowerSHell to talk to InfluxDB using REST API.
+Also see the included hyper mike guide for InfluxDB 3 Core (beta). I walk you through the vendor instructions and do some other things like use PowerShell to talk to InfluxDB using REST API.
